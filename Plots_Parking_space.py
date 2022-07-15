@@ -5,7 +5,7 @@ from sklearn.cluster import KMeans
 import os
 import time
 import folium
-api_key = 'AIzaSyBpZkDMbZjy1MwJtPpOqYv3crIfsv0H_WM'
+api_key = **
 
 from bokeh.io import show
 from bokeh.plotting import gmap
